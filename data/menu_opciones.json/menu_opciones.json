@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Componentes 5b",
+    "iconApp" : "icon",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto" : "Alertas",
+            "texto2" : "se mostraran alertas"
+        },
+        {
+            "ruta" : "entradas",
+            "icon" : "input",
+            "texto" : "Entradas",
+            "texto2" : "se introduciran datos"
+        },
+        {
+            "ruta" : "camara",
+            "icon" : "camera",
+            "texto" : "Acceder a la cámara",
+            "texto2" : "se tomará una foto"
+        },
+        {
+            "ruta" : "firebase",
+            "icon" : "data",
+            "texto" : "Firebase",
+            "texto2" : "Acceso a Firebase Storage"
+        }
+    ]
+}
